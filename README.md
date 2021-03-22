@@ -23,4 +23,5 @@
 - Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
 - Provides "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 
-### The web pages have been deployed to github pages and can be viewed at: https://ronaldbmz.github.io/Web-Design-Challenge/index.html
+### The web pages have been deployed to github pages and can be viewed at: 
+https://ronaldbmz.github.io/Web-Design-Challenge/index.html
